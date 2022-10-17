@@ -12,3 +12,5 @@ Pour le module pytmx, (le format d'importation de la carte et éléments de déc
 j'ai eu de gros problèmes concernant ses attributs... pytmx.utile_pygame.load_pygame() semblait ne pas exister
 malgré leurs présences à l'execution de : pprint(dir(pytmx))
 Tout comme mon message d'erreur concernant gun pour l'attribut run.
+
+J'admets avoir perdu énormément de temps lors de la première heure, dû à des défauts d'installation de Git ou Tiled pour l'aspect graphique du jeu, j'aurais aimé au moins pourvoir l'afficher.
