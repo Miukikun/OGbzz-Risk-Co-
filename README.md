@@ -14,3 +14,6 @@ malgré leurs présences à l'execution de : pprint(dir(pytmx))
 Tout comme mon message d'erreur concernant gun pour l'attribut run.
 
 J'admets avoir perdu énormément de temps lors de la première heure, dû à des défauts d'installation de Git ou Tiled pour l'aspect graphique du jeu, j'aurais aimé au moins pourvoir l'afficher.
+
+Malgré la délivrance de l'exercice, je continuerai cet exercice à titre personnel !
+Merci pour cet expérience.
